@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Philip. I, Python-developer, which deals with automation systems and software development.
 
 <!--
 **filcher2011/filcher2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
