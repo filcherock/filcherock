@@ -1,8 +1,8 @@
 # Hi there, I'm Phil, or filcher2011
-### Computer science student, IT news writer from Russia 🇷🇺
+### Python and C++ developer writer from Russia 🇷🇺
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="your-pypi-URL">
+    <img src="https://pypi.org/user/filcher2011/" alt="PyPI Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
