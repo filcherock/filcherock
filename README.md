@@ -10,8 +10,8 @@
   <a href="https://www.youtube.com/@filcher2011">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://t.me/filcher">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Vk Badge"/>
+  <a href="https://vk.com/philipinya">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=filcher2011&style=flat-square&color=blue" alt=""/>
 </div>
@@ -30,7 +30,7 @@
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I develop software and automation systems in Python.
 - :zap: In my free time, I solve problems on Stekik and read documentation.
-- :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/-filcher-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/filcher)
+- :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/philipinya)
 
 ---
 
