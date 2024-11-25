@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://filcher2011.github.io">
+<a href="https://gravatar.com/filcher2011">
     <img src="ghostTransperent.png" alt="filcher badge" width=100px/>
 </a>
 </div>
@@ -26,8 +26,8 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: About Me :
+Hello! I'm a filcher, or my real name is Philip. I am a Python and C++ programmer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I have been programming since 2021. In addition to programming in Python and C++, I am involved in programming in other languages, creating websites, games, programming on Arduino, 3D printing and 3D modeling
 - :telescope: I develop software and automation systems in Python.
 - :zap: In my free time, I solve problems on Stekik and read documentation.
 - :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/philipinya)
