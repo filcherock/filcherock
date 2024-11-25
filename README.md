@@ -13,7 +13,7 @@
   <a href="https://vk.com/philipinya">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=filcher2011&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=filcher2011&style=for-the-badge&color=blue" alt=""/>
 </div>
 <h1 align="center">
   Hi there, I'm Phil, or filcher2011
