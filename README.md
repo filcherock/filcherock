@@ -7,9 +7,6 @@
   <a href="https://pypi.org/user/filcher2011/">
     <img src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.youtube.com/@filcher2011">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://vk.com/philipinya">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a><br>
