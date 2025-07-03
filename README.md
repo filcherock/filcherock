@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=filcher2011&style=for-the-badge&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hi there, I'm Phil, or filcher2011
+  Hi there, I'm Phil, or filcherock
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
   Python and C++ developer writer from Russia 🇷🇺
 </h1><br><br>
