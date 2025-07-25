@@ -1,85 +1,72 @@
+<p align="center"><img src="ghostTransperent.png" alt="filcher badge" width=100px></p>
+<h1 align="center">Hi there, I'm <a href="https://github.com/filcherock">FILCHER</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
-<a href="https://gravatar.com/filcher2011">
-    <img src="ghostTransperent.png" alt="filcher badge" width=100px/>
-</a>
-</div>
-<div id="badges" align="center">
-  <a href="https://pypi.org/user/filcher2011/">
-    <img src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://vk.com/philipinya">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
-  </a><br>
-  <img src="https://komarev.com/ghpvc/?username=filcher2011&style=for-the-badge&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  Hi there, I'm Phil, or filcherock
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
-  Python and C++ developer writer from Russia 🇷🇺
-</h1><br><br>
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/4b/26/1f/4b261f5fe2a4dbb63e7db5a40622dc99.gif" width="800" height="400"/>
 </div>
 
 ---
 
-### :man_technologist: About Me :
-Hello! I'm a filcher, or my real name is Philip. I am a Python and C++ programmer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I have been programming since 2021. In addition to programming in Python and C++, I am involved in programming in other languages, creating websites, games, programming on Arduino, 3D printing and 3D modeling
-- :telescope: I develop software and automation systems in Python.
-- :zap: In my free time, I solve problems on Stekik and read documentation.
-- :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/philipinya)
+### :man_technologist: About Me 
+Hi! I'm Filcher, my real name is Philip. I program in Python and C++. I want to become a Full-Stack programmer and am developing in this direction. Over the years, I have tried to create games, write my own interpreters, websites, GUI applications and much more
+- :telescope: I create GUI applications, websites and telegram bots
+- :zap: In my free time I watch movies and play games.
+- :mailbox: You can contact me via telegram -> @filcher
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron"  alt="Electron" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+### :hammer_and_wrench: My Skill Set  
+<table><tr><td valign="top" width="33%" align="center">
+
+
+
+### Programming Languages  
+---
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+
 </div>
 
+</td><td valign="top" width="33%" align="center">
+
+
+
+### Frameworks and DB  
+---
+<div align="center">  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%" align="center">
+
+
+
+###  Tools and Technology  
+---
+<div align="center">  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://preview.redd.it/vtzpl5c9yd181.png?width=512&format=png&auto=webp&s=d0ce01fbd57c089dc06a2cc2c1252a6da7e4658a" alt="Unity" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://blog.skillfactory.ru/wp-content/uploads/2023/03/microsoft_.net_logo.svg_.png" alt=".NET" height="50"/></a>  
+<a href="https://www.blender.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+</div>
+
+</td></tr></table>
+
 ---
 
-### :fire: My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filcher2011&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filcher2011&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filcher2011&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=filcher2011&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=filcher2011&theme=solarized_dark)
-
-### :fire: My Streak :
-<a href="[https://t.me/filcher](https://git.io/streak-stats)">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=filcher2011&theme=tokyonight&background=202020"/>
-</a>
-
-
-<!--
-**filcher2011/filcher2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :robot: Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filcherock&theme=react&border_radius=10&card_width=800)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filcherock&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filcherock&show_icons=true&theme=tokyonight)](https://github.com)
+[![Awards](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
