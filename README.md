@@ -13,6 +13,16 @@ Hi! I'm Filcher, my real name is Philip. I program in Python and C++. I want to 
 - :zap: In my free time I watch movies and play games.
 - :mailbox: You can contact me via telegram -> @filcher
 
+#### My device
+``` bash
+Type: Laptor
+Core: Intel Core I5-12450H
+Videocard: NVIDIA GeForce RTX 3050 Laptor
+RAM: 8gb
+OS: Windows 10, Ubuntu
+My Favourite IDE: Visual Studio Code
+```
+
 ---
 
 ### :hammer_and_wrench: My Skill Set  
