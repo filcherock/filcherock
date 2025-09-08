@@ -12,7 +12,7 @@ Hi! I'm Filcher, my real name is Philip. I program in Python and C++. I want to 
 - :telescope: I create GUI applications, websites and telegram bots
 - :zap: In my free time I watch movies and play games.
 - :information_source: My project -> [click](https://github.com/filcherock/my-project-info)
-- :mailbox: You can contact me via telegram -> @filcher
+- :mailbox: You can contact me via telegram -> @fl4rs
 
 #### My device
 ``` bash
