@@ -20,7 +20,7 @@ Type: Laptor
 Core: Intel Core I5-12450H
 Videocard: NVIDIA GeForce RTX 3050 Laptor
 RAM: 8gb
-OS: Windows 10, Linux Mint
+OS: Windows 10, Arch Linux
 My Favourite IDE: Visual Studio Code
 ```
 
